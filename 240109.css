@@ -5,7 +5,7 @@ body {
   
   .card {
     background-image: 
-    linear-gradient(180deg, rgba(0,0,0,1),rgba(0,0,0,0)),
+    linear-gradient(90deg, rgba(0,0,0,1),rgba(0,0,0,0)),
     url('pizza.webp');
     background-repeat: no-repeat;
     background-position: center;
