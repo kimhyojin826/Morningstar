@@ -4,7 +4,12 @@ body {
   }
   
   .card {
-    background-image: linear-gradient(180deg, rgba(0,0,0,1),rgba(0,0,0,0));
+    background-image: 
+    linear-gradient(180deg, rgba(0,0,0,1),rgba(0,0,0,0)),
+    url('pizza.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     color: #ffffff;
     line-height: 1.7;
     margin: 40px auto;
