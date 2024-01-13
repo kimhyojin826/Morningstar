@@ -52,9 +52,11 @@ html {
   .question{
     align-content: right;
     color: #ababab;
+    font-size: 14px;
   }
 
   .join{
     color: #2c2c2c;
+    font-size: 14px;
   }
 
