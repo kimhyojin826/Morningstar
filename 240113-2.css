@@ -1,0 +1,60 @@
+html {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  form {
+    width: 360px;
+    margin: 0 auto;
+  }
+
+  label {
+    display: block;
+    margin: 16px auto 8px;
+    color: #2c2c2c;
+    text-align: left;
+  }
+  
+  input {
+    display: block;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    margin: 8px auto;
+    color: #ababab;
+    border: 1px solid #d1d1d1;
+    width: 360px;
+  }
+  
+  button {
+    border: none;
+    display: block;
+    padding: 16px;
+    margin: 24px auto;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: #2c2c2c;
+    color: #ffffff;
+    width: 360px;
+  }
+  
+  h1{
+    margin: 120px auto 24px;
+    font-size: 2em;
+    font-weight: 700;
+    color: #4e4e4e;
+    text-align: center;
+  }
+
+  a{
+    font-size: 14px;
+  }
+  .question{
+    align-content: right;
+    color: #ababab;
+  }
+
+  .join{
+    color: #2c2c2c;
+  }
+
