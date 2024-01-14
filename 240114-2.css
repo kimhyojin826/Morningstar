@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    margin: 0;
+  }
+
+  .logo {
+    width: 104px;
+    margin-top: 68px;
+    margin-left: 48px;
+  }
+  
+  .menu {
+    margin-top: 24px;
+    padding-left: 48px;
+    padding-bottom: 24px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #000000;
+    border-bottom: 1px solid #000000;
+  }
+
+  .info {
+    margin-top: 40px;
+    margin-left: 48px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000000;
+  }
+
+  .date {
+    margin-top: 8px;
+    font-size: 16px;
+    color: #000000;
+  }
+
+  .photo {
+    height: 194px;
+    margin-right: 10px;
+  }
+
+  .photos {
+    height: 200px;
+    margin: 24px 0;
+    overflow: scroll;
+    white-space: nowrap;
+    box-sizing: border-box;
+  }
+
+  .button {
+    padding: 12px 24px;
+    margin-left: 48px;
+    margin-bottom: 72px;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #000000;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  .space {
+    margin-left: 48px;
+    margin-bottom: 16px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #000000;
+  }
+
+  .spaceInfo {
+    padding: 0 48px 24px;
+    font-size: 16px;
+    color: #000000;
+    box-sizing: border-box;
+  }
+
+  .spaceImg {
+    padding: 0 48px 48px;
+    width: 100%;
+    display: block;
+  }
+
